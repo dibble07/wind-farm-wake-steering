@@ -7,6 +7,12 @@ Investigation of the optimisation of individual yaw angles to maximise holistic 
 
 N.B. `.html` version of some files exist to see output of notebooks once run
 
+## Glossary
+| Term | Meaning |
+|---|---|
+| Levelised Cost of Energy (LCoE) | Average cost per unit of energy produced over the lifetime of the project |
+| Capacity factor | Amount of energy created as a proportion of total possible if asset operated at maximum capacity |
+
 ## To investigate
 - Increase speed and direction resolution
     - Fix oscillations around rated wind speed
