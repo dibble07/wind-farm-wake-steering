@@ -1,5 +1,5 @@
-# Holistic Wind Farm Control
-Investigation of the impact of holistic control of turbines in a wind farm
+# Wind Farm Wake Steering
+Investigation of the optimisation of individual yaw angles to maximise holistic wind farm output
 
 ## Files
 - [exploration.ipynb](exploration.ipynb) - Exploration of the impact of parameters such as yaw, wind speed and wind direction on cost and utilisation
